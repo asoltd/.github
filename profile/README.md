@@ -1,5 +1,10 @@
 # asoltd
 
+## Ongoing projects
+
+- [Premiere](https://github.com/premiere-sh)
+- [DAP](https://github.com/piotrostr/dap)
+
 ## Interview list
 
 Roles available:

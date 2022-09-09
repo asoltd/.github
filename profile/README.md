@@ -52,6 +52,16 @@ so the shame is eternal.
 - Solidity
   - [Mocha](https://mochajs.org/) with the [Hardhat goodies](https://hardhat.org/tutorial/testing-contracts)
 
+## Commit Conventions Cheatsheet
+
+feat: (new feature for the user, not a new feature for build script)
+fix: (bug fix for the user, not a fix to a build script)
+docs: (changes to the documentation)
+style: (formatting, missing semi colons, etc; no production code change)
+refactor: (refactoring production code, eg. renaming a variable)
+test: (adding missing tests, refactoring tests; no production code change)
+chore: (updating grunt tasks etc; no production code change)
+
 ## Book yourself a slot
 
 For the following two weeks (June 27th - July 10th) I will be running the
